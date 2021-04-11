@@ -1,3 +1,7 @@
+/* Nam Phu Nguyen (Logan)
+   IT220-JAVA II 
+   Programing Assignment
+ */ 
 public class GroceryClientExample {
     public static void main(String[] args){
         //create new list
