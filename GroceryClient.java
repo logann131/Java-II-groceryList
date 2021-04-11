@@ -1,3 +1,7 @@
+/* Nam Phu Nguyen (Logan)
+   IT220-JAVA II 
+   Programing Assignment
+ */ 
 public class GroceryClient {
     public static void main(String[] args){
         GroceryStore groceryList = new GroceryStore();
